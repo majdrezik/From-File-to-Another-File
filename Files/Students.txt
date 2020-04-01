@@ -1,0 +1,4 @@
+Name: Moshe grade: 100
+Name: Dana grade: 89
+Name: Maya grade: 91
+Name: Adam grade: 90
